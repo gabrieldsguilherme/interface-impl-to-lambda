@@ -1,5 +1,5 @@
 # interface-impl-to-lambda
-Showing how to reduce functional interface implementations to lambda expressions
+Showing how to reduce functional interface implementations to lambda expressions and method references
 
 ## Goal
 1. Sort and print 2 lists of Integer (asc and desc)
