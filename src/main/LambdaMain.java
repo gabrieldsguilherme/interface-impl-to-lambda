@@ -1,7 +1,9 @@
 package main;
 
 import java.util.Arrays;
+import java.util.Comparator;
 import java.util.List;
+import java.util.function.BinaryOperator;
 
 public class LambdaMain {
 
@@ -14,6 +16,12 @@ public class LambdaMain {
         // TODO: Sort list2 desc
 
         // TODO: filter odd numbers from any list
+        // TODO: Print with method reference
+
+        // TODO: Asc list with method reference
+        // TODO: Desc list with Comparator method
+
+        // TODO: Sum values from list using reduce
 
         System.out.println("Asc: " + list1);
         System.out.println("Desc: " + list2);
